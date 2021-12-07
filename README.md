@@ -18,9 +18,9 @@ The contents of this report cover our analysis of over 20,000 chess games played
 
 &nbsp;&nbsp;&nbsp;&nbsp; Using our analysis on the openings and their win rates, we discovered that common openings have a very equal distribution of wins between white and black, whereas the less common openings tend to favor one or the other.  Although some openings may be more beneficial to one side compared to the other, the more likely cause of this finding is that the lesser played openings don’t have enough data to determine their viability.<br>
 
-When analyzing the risk factor of each opening, we found that the less common an opening is, the higher risk it is.  The risk that was used for these openings were their viability for use on both white and black, meaning a higher risk opening would be skewed to one side.  Using this knowledge, new players should try to learn common openings first, as they are just as viable on both black and white.  Finally, if you are able to learn multiple different openings, knowing which ones benefit which side can provide a significant advantage over your opponent.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; When analyzing the risk factor of each opening, we found that the less common an opening is, the higher risk it is.  The risk that was used for these openings were their viability for use on both white and black, meaning a higher risk opening would be skewed to one side.  Using this knowledge, new players should try to learn common openings first, as they are just as viable on both black and white.  Finally, if you are able to learn multiple different openings, knowing which ones benefit which side can provide a significant advantage over your opponent.<br>
 
-The winrates of each opening vary greatly depending on which side they are played from, these findings confirm the hypothesis that openings were designed for certain sides and created to build an advantage through a series of strategic moves at the beginning of the game.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; The winrates of each opening vary greatly depending on which side they are played from, these findings confirm the hypothesis that openings were designed for certain sides and created to build an advantage through a series of strategic moves at the beginning of the game.<br>
 
 The top 3 highest win rate openings for white were:
 - The Queen’s Gambit
