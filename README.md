@@ -34,6 +34,10 @@ The top 3 highest win rate openings for black were:
 
 
 ## Conclusion
+&nbsp;&nbsp;&nbsp;&nbsp; In conclusion, we found many different factors that can affect the winrate of a chess game.  The first factor we identified was which side the player is on, with white being the preferred side as it has a higher win rate.  The second factor was the number of turns you should take, with games under 61 turns favoring white and games over 61 turns favoring black.  The last factor that we analysed was the different openings and their variations.  We found that the more popular an opening is, the more even it will be in terms of win rate.  This means that a less common opening will be much more likely to either favor white or black, although there is a possibility this is due to there being less data compared to the popular openings.  Lastly, we found that openings with less variations and more moves were much less popular than ones with less moves and more variations.
+
+&nbsp;&nbsp;&nbsp;&nbsp; While completing this assignment, we learned many things about chess such as what side and openings are the most advantageous.  We also learned interesting things such as what openings are better for white/black and how variations and complexity affect the popularity of an opening.  For the future, an improvement that we could make would be to add more to the questions to further refine the data gathered.
+
 
 ## Acknowledgements
 &nbsp;&nbsp;&nbsp;&nbsp; This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and all appropriate resources are rightfully cited.”
