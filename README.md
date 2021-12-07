@@ -39,7 +39,7 @@ The top 3 highest win rate openings for black were:
 &nbsp;&nbsp;&nbsp;&nbsp; This project was submitted as the final course project for CSCI 2000U “Scientific Data Analysis” during Fall 2021. The authors certify that the work in this repository is original and all appropriate resources are rightfully cited.”
 
 ## Steps to Run our Jupyter Notebook
-1. Install [Docker](https://docs.docker.com/engine/install/ubuntu/) and [Docker Compose](https://docs.docker.com/compose/install/) on Ubuntu or WSL<br>
+1. Install [Docker](https://docs.docker.com/engine/install/ubuntu/) and [Docker Compose](https://docs.docker.com/compose/install/) on Ubuntu or [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)<br>
 2. Clone the necessary Docker files using git in your preferred directory:<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Using HTTPS Authentication with PAT: **git clone https://github.com/maakemi/csci2000u-jupyter-notebook**<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - Using SSH Authentication: **git clone git@github.com:maakemi/csci2000u-jupyter-notebook**<br>
