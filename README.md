@@ -1,5 +1,9 @@
 # How To Be A Better Chess Player
-
+## Authors and Github Links
+- Alden Chan (https://github.com/AldenCh)
+- Nicholas Panait (https://github.com/NicholasPanait)
+- Victor Ma (https://github.com/waachaa)
+- Saffron Birch (https://github.com/SaffyTaffy)
 
 ## Steps to Run our Jupyter Notebook
 1. Install [Docker](https://docs.docker.com/engine/install/ubuntu/) and [Docker Compose](https://docs.docker.com/compose/install/) on Ubuntu or WSL<br>
@@ -8,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - Using SSH Authentication: git clone git@github.com:maakemi/csci2000u-jupyter-notebook<br>
 3. Change into the cloned directory<br>
 4. Run the following two commands in your terminal<br>
-&nbsp;&nbsp;&nbsp;&nbsp; - **sudo service docker status**, **NOTE:** If docker is already running then there is no need for the second command<br>
+&nbsp;&nbsp;&nbsp;&nbsp; - **sudo service docker status**, NOTE: If docker is already running then there is no need for the second command<br>
 &nbsp;&nbsp;&nbsp;&nbsp; - **sudo docker service start**<br>
 5. Open up a new Ubuntu or WSL terminal and run **sudo docker run hello-world** to make sure docker works<br>
 6. Start the container with **sudo docker-compose up** to start the Jupyter environment and you will be given URLs which you can use in any browser to access the environment<br>
